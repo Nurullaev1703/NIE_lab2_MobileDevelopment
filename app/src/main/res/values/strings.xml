@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="answer">Ответ:</string>
+    <string name="a">Введите А</string>
+    <string name="b">Введите В</string>
+    <string name="x">Введите X</string>
+    <string name="variant">Нуруллаев Илья. 11 вариант</string>
+    <string name="solve">Решить</string>
+</resources>
